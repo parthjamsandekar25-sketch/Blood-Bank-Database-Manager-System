@@ -1,0 +1,4 @@
+Type,PRN,Aadhar,Name,DOB,Gender,Address,BloodGroup,Height,Weight,Hb,BP,BloodAmount,Phone,Email,LastDonation,TotalDonations,Status
+SAKEC,125BTEX1024,null,Atharva Kadam,21/12/2007,Male,Thane,B+,180.0,71.0,13.8,140.0,1700,3333333333333333,atharva.kadam25@sakec.ac.in,24/07/2026,5,Active
+SAKEC,125BTEX1063,null,Aayush Gupta,05/02/2007,Male,Thane,A+,172.0,56.0,13.5,124.0,600,9876543210,aayush.gupta25@sakec.ac.in,24/07/2026,2,Active
+OTHER,null,2222222222222,Trial,09/11/2004,Male,Dadar,B-,170.0,65.0,15.0,140.0,1200,3333333333,trial@gmail.com,11/05/2026,4,Active
